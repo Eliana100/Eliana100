@@ -1,9 +1,14 @@
 name: generate animation
 
 on:
+  
   schedule:
-    - cron: "0 */24 * * *" # roda a cada 24 horas
+    - cron: "0 */24 * * *" 
+  
+  
   workflow_dispatch:
+  
+  
   push:
     branches:
     - main
@@ -14,16 +19,18 @@ jobs:
     timeout-minutes: 5
     
     steps:
+      
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#FF1493
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#FF1493&color_dots=#161b22,#4c1d3c,#8b1d5a,#c71585,#ff1493
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
+      
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

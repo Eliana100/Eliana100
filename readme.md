@@ -28,9 +28,7 @@
 <br/>
 
 ## 🌸 Git Status
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Eliana100/Eliana100/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
+![Snake](https://raw.githubusercontent.com/Eliana100/Eliana100/output/github-contribution-grid-snake-dark.svg)
 
 <br/>
 

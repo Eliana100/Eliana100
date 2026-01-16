@@ -28,6 +28,8 @@
 <br/>
 
 ## 🌸 Git Status
+<img src= https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nmw4eHZseDlpNW1hNnA0eWo4emtvaGI3OWc2dWZ5OWp6eGV3MmMxcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT3i1cvbSQSXENS9rO/giphy.gif width="300px">
+
 ![Snake](https://raw.githubusercontent.com/Eliana100/Eliana100/output/github-contribution-grid-snake-dark.svg)
 
 <br/>

@@ -1,43 +1,57 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=160&section=header"/>
+
 <div align="center">
 
-# 𝓔𝓵𝓲𝓪𝓷𝓪 𝓐𝓵𝓶𝓮𝓲𝓭𝓪 
+# Eliana Almeida  
 <p align="center">
-  <b>Full Stack Developer | Java POO | 21 y.o</b>
+  <b>Desenvolvedora Full Stack | Java POO | UI/UX Design</b>
 </p>
 
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=BLACKPINK%20IN%20YOUR%20AREA&fontSize=40&fontColor=FF1493&fontAlignY=50)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=300&size=24&duration=4000&pause=1000&color=FF1493&center=true&vCenter=true&width=1000&lines=Building+digital+universes+with+code.;Transforming+logic+into+art.)](https://git.io/typing-svg)
-
-<br/>
-
-### 💌 Connect with me
-[![](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF1493)](https://www.linkedin.com/in/eliana-almeida-nunes-da-silva-7a7195227/)
+### 💌 Contato
+[![](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF1493)](https://www.linkedin.com/in/elianaalmeida)
 [![](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF1493)](https://www.instagram.com/nunessilva347/)
 
-<br/>
+</div>
 
 ---
 
-## 🍒 Stack
+### Sobre Mim
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,git,linux,figma,vscode&perline=9&theme=dark" />
-</p>
+Trabalho com desenvolvimento web focada em prática constante e aprendizado através de projetos reais.  
+No dia a dia, atuo principalmente com **Java**, **Spring Boot** e **React**.
+
+Tenho experiência com **UI/UX**, o que me ajuda a pensar não só na lógica do sistema, mas também em como as pessoas usam o que estou construindo.
+
+- Cursando **Análise e Desenvolvimento de Sistemas** na Universidade São Francisco (USF). 
+- Ex-Jovem Aprendiz em **UI/UX** no Grupo Casas Bahia via Instituto PROA. 
+- Interesse atual em **APIs REST** e arquitetura de sistemas
+- Experiência em prototipagem acessível no **Figma**. 
+
+<br>
+
+### Tecnologias e Ferramentas
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,react,js,html,css,figma,git,github,vscode,aws&perline=6&theme=dark" />
+</div>
+
+<br>
+
+### 🌸 Minha Atividade
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Eliana100/Eliana100/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
 
 <br/>
 
-## 🌸 Git Status
-<img src= https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nmw4eHZseDlpNW1hNnA0eWo4emtvaGI3OWc2dWZ5OWp6eGV3MmMxcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT3i1cvbSQSXENS9rO/giphy.gif width="300px">
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=400&size=22&duration=4500&pause=1200&color=FF1493&center=true&vCenter=true&width=900&lines=Desenvolvedora+Java.;Interfaces+claras+e+funcionais.;Aprendendo+com+prática.)](https://git.io/typing-svg)
 
-![Snake](https://raw.githubusercontent.com/Eliana100/Eliana100/output/github-contribution-grid-snake-dark.svg)
+</div>
 
-<br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=2&section=footer)
 
-<p align="center">
-  <i>"How you like that?"</i> 🎀
-</p>
-
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=2&section=footer"/>
+  <p><i>"Aprendendo, errando e melhorando a cada commit"</i> 🎀</p>
 </div>

@@ -3,7 +3,7 @@ name: generate animation
 on:
   
   schedule:
-    - cron: "0 */24 * * *" 
+   - cron: "0 */24 * * *" 
   
   
   workflow_dispatch:
@@ -26,7 +26,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#FF1493&color_dots=#161b22,#4c1d3c,#8b1d5a,#c71585,#ff1493
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#A020F0&color_dots=#161b22,#2D033B,#4B0082,#800080,#A020F0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           

@@ -4,7 +4,7 @@
 
 # Eliana Almeida  
 <p align="center">
-  <b>Desenvolvedora Full Stack | Java POO | UI/UX Design</b>
+  <b>Desenvolvedora Full Stack Júnior | Java | Spring Boot | APIs REST | MySQL | React </b>
 </p>
 
 ### 💌 Contato

@@ -1,19 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=160&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2D033B&height=160&section=header"/>
 
 <div align="center">
   
 # Eliana Almeida ✧
-
-
-
 
 <p align="center">
   <b>Desenvolvedora Full Stack Júnior | Java | Spring Boot | APIs REST | MySQL | React </b>
 </p>
 
 ### 💌 Contato
-[![](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF1493)](https://www.linkedin.com/in/elianaalmeida)
-[![](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF1493)](https://www.instagram.com/nunessilva347/)
+[![](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=A020F0)](https://www.linkedin.com/in/elianaalmeida)
+[![](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=A020F0)](https://www.instagram.com/nunessilva347/)
 
 </div>
 
@@ -49,13 +46,11 @@ Tenho experiência com **UI/UX**, o que me ajuda a pensar não só na lógica do
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=400&size=22&duration=4500&pause=1200&color=FF1493&center=true&vCenter=true&width=900&lines=Desenvolvedora+Java.;Interfaces+claras+e+funcionais.;Aprendendo+com+prática.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=400&size=22&duration=4500&pause=1200&color=A020F0&center=true&vCenter=true&width=900&lines=Desenvolvedora+Java.;Interfaces+claras+e+funcionais.;Aprendendo+com+prática.)](https://git.io/typing-svg)
 
 </div>
 
-
-
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=FF1493&height=2&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=2D033B&height=2&section=footer"/>
   <p><i>"Aprendendo, errando e melhorando a cada commit"</i> 🎀</p>
 </div>

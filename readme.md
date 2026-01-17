@@ -1,8 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=160&section=header"/>
 
 <div align="center">
+  
+# Eliana Almeida ✧
 
-# Eliana Almeida  
+
+
+
 <p align="center">
   <b>Desenvolvedora Full Stack Júnior | Java | Spring Boot | APIs REST | MySQL | React </b>
 </p>

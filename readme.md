@@ -37,6 +37,14 @@ Tenho experiência com **UI/UX**, o que me ajuda a pensar não só na lógica do
 
 <br>
 
+<div align="center">
+<a href="https://github.com/Eliana100">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliana100&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Eliana100&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+
+<br>
+
 ### 🌸 Minha Atividade
 <div align="center">
   <img src="https://raw.githubusercontent.com/Eliana100/Eliana100/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
